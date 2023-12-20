@@ -1,20 +1,30 @@
-### Hi there 👋
+# Hi! I'm Lansong👋
 
-<!--
-**Lansongxx/Lansongxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 😊
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 努力努力再努力✨✨✨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lansongxx&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+</div>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lansongxx&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
+
+Coding for 5 minutes, debugging for 2 hours.
+
+I am a student majoring in software engineering looking forward to participate in more open source project.
+
+Wokring for ByteDance now.
+
+## Metrics 👣
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lansongxx&theme=dark&hide_border=true" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://api.githubtrends.io/user/svg/Lansongxx/langs?time_range=one_year&include_private=true&theme=classic" alt="Most Used Languages" width="300" />
+  <img src="https://api.githubtrends.io/user/svg/Lansongxx/repos?time_range=one_month&theme=classic" alt="Most Contributed Repositories" width="300" />
+</div>
+<br>
+
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Lansongxx&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
