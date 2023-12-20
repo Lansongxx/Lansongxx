@@ -10,8 +10,7 @@
 Coding for 5 minutes, debugging for 2 hours.
 
 I am a student majoring in software engineering looking forward to participate in more open source project.
-
-Wokring for ByteDance now.
+ 
 
 ## Metrics 👣
 
