@@ -21,8 +21,8 @@ I am a student majoring in software engineering looking forward to participate i
 <br>
 
 <div align="center">
-  <img src="https://api.githubtrends.io/user/svg/Lansongxx/langs?time_range=one_year&include_private=true&theme=classic" alt="Most Used Languages" width="300" />
-  <img src="https://api.githubtrends.io/user/svg/Lansongxx/repos?time_range=one_month&theme=classic" alt="Most Contributed Repositories" width="300" />
+  <img src="https://api.githubtrends.io/user/svg/Lansongxx/langs?time_range=one_year&loc_metric=changed&theme=dark" alt="Most Used Languages" width="300" />
+  <img src="https://api.githubtrends.io/user/svg/Lansongxx/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" alt="Most Contributed Repositories" width="300" />
 </div>
 <br>
 
