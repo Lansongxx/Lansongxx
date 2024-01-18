@@ -23,7 +23,7 @@ I am a student majoring in software engineering looking forward to participate i
 <div align="center">
   <img src="https://api.githubtrends.io/user/svg/Lansongxx/langs?time_range=one_year&loc_metric=changed&theme=dark" alt="Most Used Languages" width="300" />
   <img src="https://api.githubtrends.io/user/svg/Lansongxx/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark" alt="Most Contributed Repositories" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lansongxx" alt="Most Contributed Repositories" width="500"/>
 </div>
 <br>
-
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Lansongxx&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
